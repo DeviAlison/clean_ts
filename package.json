@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DeviAlison/clean_ts/issues"
   },
-  "homepage": "https://github.com/DeviAlison/clean_ts#readme"
+  "homepage": "https://github.com/DeviAlison/clean_ts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
